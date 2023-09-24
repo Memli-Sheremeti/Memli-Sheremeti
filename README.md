@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a french Student at 42 Paris.
+I'm a french Student at **42 Paris**.
 <!--
 **Memli-Sheremeti/Memli-Sheremeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
