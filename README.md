@@ -1,5 +1,5 @@
 <h1 align="center"> Hi ! I'm Memli Sheremeti 👋</h1>
-<h3 align="center"> Currently doing the Piscine of 42 Paris.</h3>
+<h4 align="center"> Currently doing the Piscine of 42 Paris.</h4>
 
 - 📫 How to reach me: **memli.sh.pro@gmail.com**
 
