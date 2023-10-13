@@ -1,6 +1,7 @@
 <h1 align="center"> Hi ! I'm Memli Sheremeti 👋</h1>
-<h4 align="center"> Currently doing the Piscine of 42 Paris.</h4>
+<h4 align="center"> Student at 42 Paris.</h4>
 
+- 🌱 I’m currently learning **C** !
 - 📫 How to reach me: **memli.sh.pro@gmail.com**
 
 <!--
