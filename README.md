@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  🔭 I’m currently working on the ** Post - 42 CC**
+  🔭 I’m currently working on the **Post 42 CC**
   
   🌱 I’m currently learning **C, CPP, UNIX**
 
