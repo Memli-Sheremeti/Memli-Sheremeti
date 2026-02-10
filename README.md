@@ -1,20 +1,22 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Memli-Sheremeti.visitor-badge.issue.1" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👋;+I'm+Memli+Sheremeti!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+!+👋;+I'm+Memli+Sheremeti!;Full+Stack+Dev+@+Fluence;Student+@+42+Paris;" />
 </h1>
 
-<h3 align="center">A passionate software Student at 42 Paris🇫🇷</h3>
+<h3 align="center">Software Engineer | 42 Paris Student 🇫🇷</h3>
 
 <br/>
 
 <div align="center">
   
-  🔭 I’m currently working on the **Post 42 CC**
+  🔭 I’m currently building **FinTech solutions & Architecture** at **Fluence**
   
-  🌱 I’m currently learning **C, CPP, UNIX**
+  🌱 I’m currently mastering **Ruby on Rails, Vue.js (Composition API) & Data Consistency**
+  
+  ⚙️ Daily driving **TypeScript, PostgreSQL & Sidekiq**
 
-  </div>
+</div>
  
 <div align="center"> 
   <a href="https://www.linkedin.com/in/memli-sheremeti-180888292/" target="_blank">
@@ -24,11 +26,12 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,ruby,github,git,rails,vue,postgres" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,ts,vue,postgres,redis,git,github,c,docker" />
+  </a>
 </div>
 
 <br/>
