@@ -12,7 +12,7 @@
   
   🔭 I’m currently building **FinTech solutions & Architecture** at **Fluence**
   
-  🌱 I’m currently mastering **Ruby on Rails, Vue.js (Composition API) & Data Consistency**
+  🌱 I’m currently mastering **Ruby on Rails, Vue.js & Data Consistency**
   
   ⚙️ Daily driving **TypeScript, PostgreSQL & Sidekiq**
 
@@ -30,7 +30,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,ts,vue,postgres,redis,git,github,c,docker" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,ts,vue,postgres,redis,git,c,docker" />
   </a>
 </div>
 
