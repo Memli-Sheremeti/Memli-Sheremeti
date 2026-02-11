@@ -25,13 +25,10 @@
 </div>
 
  <hr/>
- 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ruby,rails,ts,vue,postgres,redis,git,c,docker" />
   </a>
 </div>
-
 <br/>
