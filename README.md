@@ -12,7 +12,7 @@
   
   🔭 I’m currently building **FinTech solutions & Architecture** at **Fluence**
   
-  🌱 I’m currently mastering **Ruby on Rails, Vue.js & Data Consistency**
+  🌱 I’m currently mastering **Ruby on Rails**
   
   ⚙️ Daily driving **TypeScript, PostgreSQL & Sidekiq**
 
