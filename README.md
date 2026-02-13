@@ -79,7 +79,7 @@ end
 </div>
 <br clear="both"/>
 <!-- find me -->
-<div><br/>
+<div>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&amp;color=0:1565C0%2C100:0D47A1&amp;height=60&amp;section=header&amp;text=Find%20me&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=55&amp;section=header" width="100%"/>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&amp;color=0:4FC3F7%2C100:0D47A1&amp;height=60&amp;section=header&amp;text=Find%20me&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=55&amp;section=header" width="100%"/>
