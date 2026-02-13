@@ -59,7 +59,7 @@
 <br clear="both"/>
 
 <div>
-<picture>
+  <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=speech&amp;color=0:0D47A1%2C100:1565C0&amp;height=80&amp;section=header&amp;text=About%20me&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=45&amp;section=header&amp;reversal=true" width="100%"/>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=speech&amp;color=0:0D47A1%2C100:4FC3F7&amp;height=80&amp;section=header&amp;text=About%20me&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=45&amp;section=header&amp;reversal=true" width="100%"/>
   <img src="https://capsule-render.vercel.app/api?type=speech&amp;color=0:4FC3F7,100:0D47A1&amp;height=80&amp;color=gradient&amp;text=About%20me&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=45&amp;section=header&amp;reversal=true" width="100%"/>
@@ -84,12 +84,13 @@ end
  <a href="https://www.linkedin.com/in/memli-sheremeti/"> <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light"/>
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="50"/>
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="42"/>
     </picture>
   </a>
 </div>
 
 </div>
+<br clear="both"/>
 
 <!-- footer -->
 <picture>
