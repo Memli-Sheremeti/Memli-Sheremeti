@@ -59,12 +59,12 @@
 
 <div>
   <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=speech&amp;color=0:0D47A1%2C100:1565C0&amp;height=80&amp;section=header&amp;text=About%20me&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=45&amp;section=header&amp;reversal=true" width="100%"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=speech&amp;color=0:0D47A1%2C100:4FC3F7&amp;height=80&amp;section=header&amp;text=About%20me&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=45&amp;section=header&amp;reversal=true" width="100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=speech&amp;color=0:4FC3F7,100:0D47A1&amp;height=80&amp;color=gradient&amp;text=About%20me&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=45&amp;section=header&amp;reversal=true" width="100%"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&amp;color=0:1565C0%2C100:0D47A1&amp;height=60&amp;section=header&amp;text=About%20me&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=55&amp;section=header" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&amp;color=0:4FC3F7%2C100:0D47A1&amp;height=60&amp;section=header&amp;text=About%20me&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=55&amp;section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:4FC3F7,100:0D47A1&amp;height=60&amp;color=gradient&amp;text=About%20me&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=55&amp;section=header" width="100%"/>
 </picture>
-
-<img src="https://wsrv.nl/?url=github.com/Memli-Sheremeti.png&w=180&h=180&fit=cover&mask=circle" align="left">
+  
+<br/> <img src="https://wsrv.nl/?url=github.com/Memli-Sheremeti.png&w=180&h=180&fit=cover&mask=circle" width="180" align="left">
 
 ```ruby
 class MemliSheremeti < SoftwareEngineer
@@ -79,6 +79,7 @@ class MemliSheremeti < SoftwareEngineer
   end
 end
 ```
+<br clear='both'/>
 <div align="center">
  <a href="https://www.linkedin.com/in/memli-sheremeti/"> <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
