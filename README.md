@@ -65,7 +65,6 @@
 </picture>
 
 <img src="https://wsrv.nl/?url=github.com/Memli-Sheremeti.png&w=180&h=180&fit=cover&mask=circle" align="left">
-<br/> <br/>
 
 ```ruby
 class MemliSheremeti < SoftwareEngineer
