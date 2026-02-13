@@ -54,7 +54,6 @@
   <img src="https://img.shields.io/badge/Secure_Architectures-2196F3?style=for-the-badge"/>
 </div>
 </div>
-
 </div>
 <br clear="both"/>
 
@@ -66,6 +65,7 @@
 </picture>
 
 <img src="https://wsrv.nl/?url=github.com/Memli-Sheremeti.png&w=180&h=180&fit=cover&mask=circle" align="left">
+<br/> <br/>
 
 ```ruby
 class MemliSheremeti < SoftwareEngineer
